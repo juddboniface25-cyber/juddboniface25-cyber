@@ -1,311 +1,150 @@
-MASTER PROMPT — CREATE MY PERSONAL AI BUILDER GITHUB README
+# 👋 Hey, I'm Judd Boniface
 
-Act as a world-class GitHub Profile README designer specializing in personal brands for emerging AI engineers, product builders, and technical entrepreneurs.
+<div align="center">
 
-Your task is to generate a COMPLETE GitHub README.md file.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a78bfa&height=220&section=header&text=Judd%20Boniface&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-IMPORTANT:
-I do NOT want a generic software engineer README.
-I do NOT want a fake senior engineer profile.
-I do NOT want exaggerated claims.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Finance+Graduate+Building+AI+Applications;Exploring+AI+x+Automation+x+Product+Development;Building+Systems+Through+Experimentation;Combining+Finance+With+Emerging+Technology" />
 
-Create a README that accurately represents me as:
+<br/>
 
-- A recent finance graduate exploring AI and software development
-- A builder experimenting with AI-powered projects
-- Someone combining business knowledge with emerging technology
-- A self-directed learner creating useful systems and products
+<a href="https://www.jmu.edu/">
+<img src="https://img.shields.io/badge/James%20Madison%20University-B.B.A.%20Finance-4c1d95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
 
-The README should feel like:
+<img src="https://img.shields.io/badge/Location-United%20States-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-- AI startup builder aesthetic
-- Modern developer portfolio
-- Personal innovation laboratory
-- Technical but approachable
-- Premium GitHub branding
-- Entrepreneurial and experimental
+<br/><br/>
 
-The goal is personal branding, showcasing projects, and documenting my journey.
+<a href="https://www.linkedin.com/in/judd-boniface-413253263">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Do not position me as:
-- Senior software engineer
-- FAANG engineer
-- AI expert
-- Open source maintainer
+<a href="mailto:juddboniface25@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Position me as:
-- A finance graduate building AI applications
-- An emerging AI/product builder
-- Someone learning through experimentation and creating projects
+<a href="https://github.com/juddboniface25">
+<img src="https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-# Personal Information
+<img src="https://komarev.com/ghpvc/?username=juddboniface25&style=for-the-badge&color=7c3aed"/>
 
-Name:
-Judd Boniface
+</div>
 
-GitHub Username:
-juddboniface25
 
-Email:
-juddboniface25@gmail.com
+# 🧠 About Me
 
-LinkedIn:
-https://www.linkedin.com/in/judd-boniface-413253263
+I'm a recent **James Madison University Finance graduate** exploring the intersection of **artificial intelligence, software development, and business innovation**.
 
-Education:
-James Madison University
+My background in finance gives me a strong foundation in problem solving, analytical thinking, and understanding business needs. I am now applying that perspective to build AI-powered applications, automation workflows, and experimental systems.
 
-Degree:
-Bachelor of Business Administration (B.B.A.)
+I believe the best way to learn emerging technology is by building with it. My focus is on creating practical projects that combine:
 
-Major:
-Finance
+- 🤖 AI applications
+- ⚙️ Automation workflows
+- 🧩 Product development
+- 📊 Business problem solving
+- 💡 Technology experimentation
 
-Professional Identity:
-Recent Finance Graduate Building AI Applications
-
-Personal Brand:
-Using AI and finance to build unique projects.
-
----
-
-# Design Theme
-
-Use:
-
-- Dark luxury aesthetic
-- Purple / Indigo / Violet gradient theme
-- Modern AI developer aesthetic
-- Minimal but premium
-- Enterprise-inspired but personal
-- AI startup style
-
-No:
-- Personal photos
-- Project screenshots
-- Placeholder images
-
-Only use:
-- SVG animations
-- GitHub widgets
-- Contribution graphs
-- Badges
-- Markdown layouts
-- Developer-focused visual elements
-
-Avoid:
-- Excessive emojis
-- Fake statistics
-- Fake achievements
-- Fake companies
-- Senior-level claims
-
----
-
-# README STRUCTURE (FOLLOW EXACT ORDER)
-
-## 1. Animated Header Section
-
-Include:
-
-a. Capsule Render wave banner
-
-b. Typing SVG animation with phrases:
-
-"Finance Graduate Building AI Applications"
-
-"Exploring AI x Automation x Product Development"
-
-"Building Systems Through Experimentation"
-
-"Combining Finance With Emerging Technology"
-
-c. Education badge:
-
-James Madison University
-B.B.A. Finance
-
-d. Location badge
-
-e. Portfolio button
-
-f. LinkedIn button
-
-g. Email button
-
-h. GitHub button
-
-i. Profile views badge
-
----
-
-# 2. About Section
-
-Create a professional but authentic biography.
-
-Focus on:
-
-- Recent James Madison University Finance graduate
-- Exploring artificial intelligence and software development
-- Combining financial/business thinking with technology
-- Building experimental AI-powered projects
-- Learning through creating real systems
-
-Mention:
-
-- AI applications
-- Automation workflows
-- Product development mindset
-- Technology experimentation
-- Business problem solving
-
-Include:
+Currently, I am building personal systems and applications while developing my skills in software development and AI engineering.
 
 ## Open To:
 
 - AI experimentation
-- Collaboration
+- Collaboration opportunities
 - Interesting projects
 - Connecting with creators and developers
 - Learning opportunities
 
----
 
-# 3. Tech Stack Section
+# 🛠️ Tech Stack
 
-Organize into categories.
+## 🤖 AI & Automation
 
-## AI & Automation
+![Claude API](https://img.shields.io/badge/Claude%20API-Experimenting-7c3aed?style=for-the-badge)
+![AI Applications](https://img.shields.io/badge/AI%20Applications-Building-A78BFA?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Learning-4c1d95?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-Exploring-7c3aed?style=for-the-badge)
 
-Include:
 
-- Claude API
-- AI Applications
-- Prompt Engineering
-- AI Workflow Automation
-- AI-Assisted Development
+## 💻 Development Environment
 
-## Development Environment
+![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github)
+![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge%20Management-483699?style=for-the-badge&logo=obsidian)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown)
 
-Include:
 
-- VS Code
-- GitHub
-- Obsidian
-- Markdown
+## 👨‍💻 Programming
 
-## Programming
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
 
-Only include realistic emerging developer skills.
 
-Do not invent expertise.
-
----
-
-# 4. AI / Technology Exploration Section
-
-Create a markdown table.
-
-Columns:
+# 🚀 AI & Technology Exploration
 
 | Area | Current Focus | Details |
+|---|---|---|
+| AI Applications | Building AI-powered workflows | Creating tools and systems using emerging AI capabilities |
+| Automation | Reducing repetitive tasks | Designing workflows that improve productivity |
+| Knowledge Systems | Obsidian + AI organization | Building personal knowledge management systems |
+| Product Development | Turning ideas into prototypes | Learning through creating functional applications |
+| Finance + Technology | Business-focused AI solutions | Exploring how AI can transform financial workflows |
 
-Include:
 
-AI Applications:
-Building AI-powered workflows and experimental tools
-
-Automation:
-Creating systems that reduce repetitive tasks
-
-Knowledge Systems:
-Using Obsidian and AI tools for organization and productivity
-
-Product Development:
-Turning ideas into functional prototypes
-
-Finance + Technology:
-Exploring how AI can transform business and financial workflows
-
----
-
-# 5. Featured Projects Section
-
-Use collapsible markdown blocks.
-
-Format:
+# 🚀 Featured Projects
 
 <details>
-<summary>🚀 Project Name</summary>
+<summary>🤖 Claude OS</summary>
 
-Project explanation.
+<br>
 
-Include a markdown table:
+A personal operating system built around **Obsidian and Claude Code** designed to organize workflows, knowledge management, and AI-assisted productivity.
 
 | Category | Details |
 |---|---|
-| Stack | |
-| Purpose | |
-| Development Status | |
-| Challenges | |
-| Future Plans | |
-| Repository | |
+| Stack | Obsidian, Claude Code, Markdown, AI workflows |
+| Purpose | Create a personal AI-powered productivity system |
+| Development Status | Active experimentation |
+| Challenges | Designing scalable knowledge systems and workflows |
+| Future Plans | Expand automation capabilities and AI integrations |
+| Repository | Coming soon |
 
 </details>
 
----
 
-Feature these projects:
+<details>
+<summary>🏋️ Apex Fitness Tracker</summary>
 
-## Claude OS
+<br>
 
-Description:
+An AI-enhanced fitness tracking application currently in development focused on combining user data, tracking systems, and future AI capabilities.
 
-A personal operating system built around Obsidian and Claude Code to organize workflows, knowledge management, and AI-assisted productivity.
+| Category | Details |
+|---|---|
+| Stack | Application development tools, AI technologies |
+| Purpose | Create a smarter fitness tracking experience |
+| Development Status | In development |
+| Challenges | Building user experience and application architecture |
+| Future Plans | Add AI-driven insights and personalized features |
+| Repository | Coming soon |
 
-Highlight:
-
-- AI-assisted workflows
-- Personal knowledge management
-- Automation systems
-- Productivity experimentation
-- Building with emerging AI tools
+</details>
 
 
-## Apex Fitness Tracker
-
-Description:
-
-An AI-enhanced fitness tracking application currently in development.
-
-Highlight:
-
-- Product development
-- User experience
-- Data tracking
-- Future AI capabilities
-- Building a complete application
-
----
-
-# 6. Experience Section
-
-Include:
+# 💼 Experience
 
 ## Club Lacrosse Treasurer
 
-James Madison University
+**James Madison University**
 
-Role:
-Treasurer
+Managed financial responsibilities for a university club organization while developing experience in budgeting, operations, organization, and leadership.
 
-Description:
-
-Managed financial responsibilities for a university club organization, gaining experience in budgeting, operations, organization, and leadership.
-
-Include skills:
+Skills developed:
 
 - Financial Management
 - Budgeting
@@ -313,102 +152,89 @@ Include skills:
 - Operations
 - Team Collaboration
 
----
 
-# 7. Education Section
+# 🎓 Education
 
-Include:
+## James Madison University
 
-James Madison University
+**Bachelor of Business Administration (B.B.A.)**
 
-Bachelor of Business Administration
+**Major:** Finance
 
-Major:
-Finance
+Focused on combining financial knowledge with:
 
-Focus:
+- Artificial intelligence
+- Automation
+- Technology experimentation
+- Business innovation
 
-Combining financial knowledge with AI, automation, and technology experimentation.
 
----
+# 🏆 Achievements
 
-# 8. Achievements Section
-
-Use centered markdown table.
-
-Columns:
+<div align="center">
 
 | Recognition | Details |
+|---|---|
+| Academic Achievement | Bachelor of Business Administration - Finance |
+| Leadership Experience | Club Lacrosse Treasurer |
 
-Only include real achievements.
+</div>
 
-Do not fabricate awards.
 
----
+# 📜 Certifications
 
-# 9. Certifications Section
+Currently Exploring:
 
-Only include certifications that exist.
-
-If none exist, replace with:
-
-"Currently Exploring"
-
-Include:
 - AI certifications
 - Developer certifications
 - Technology learning paths
 
-Do not invent completed certifications.
 
----
+# 📊 GitHub Analytics
 
-# 10. Coding Profiles Section
+<div align="center">
 
-Only include profiles that exist.
+<img src="https://github-readme-stats.vercel.app/api?username=juddboniface25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Use premium badges.
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juddboniface25&theme=tokyonight&hide_border=true"/>
 
-# 11. GitHub Analytics Section
+<br/>
 
-Include:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juddboniface25&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- github-readme-stats
-- streak stats
-- top languages
+</div>
 
-Use:
 
-GitHub Username:
-juddboniface25
+# 🏅 GitHub Trophies
 
----
+<div align="center">
 
-# 12. GitHub Trophies Section
+<img src="https://github-profile-trophy.vercel.app/?username=juddboniface25&theme=algolia&no-frame=true&margin-w=10"/>
 
-Include GitHub trophies widget.
+</div>
 
----
 
-# 13. Contribution Activity Section
+# 📈 Contribution Activity
 
-Include:
+<div align="center">
 
-github-readme-activity-graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juddboniface25&theme=tokyo-night&hide_border=true"/>
 
----
+</div>
 
-# 14. Contribution Snake Section
 
-Include snake animation.
+# 🐍 Contribution Snake
 
----
+<div align="center">
 
-# 15. Current Focus Section
+<img src="https://raw.githubusercontent.com/juddboniface25/juddboniface25/output/github-contribution-grid-snake.svg"/>
 
-Create YAML block:
+</div>
+
+
+# 🎯 Current Focus
 
 ```yaml
 learning:
