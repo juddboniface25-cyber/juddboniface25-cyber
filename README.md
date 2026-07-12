@@ -24,13 +24,13 @@
 <img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/juddboniface25">
+<a href="https://github.com/juddboniface25-cyber">
 <img src="https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=juddboniface25&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=juddboniface25-cyber&style=for-the-badge&color=7c3aed"/>
 
 </div>
 
@@ -194,15 +194,15 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=juddboniface25&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juddboniface25-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juddboniface25&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juddboniface25-cyber&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juddboniface25&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juddboniface25-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -211,7 +211,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=juddboniface25&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=juddboniface25-cyber&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -220,7 +220,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juddboniface25&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juddboniface25-cyber&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -229,7 +229,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juddboniface25/juddboniface25/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/juddboniface25-cyber/juddboniface25-cyber/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
