@@ -1,17 +1,3 @@
-GITHUB PROFILE INFORMATION:
-
-Name:
-Judd Boniface
-
-GitHub Username:
-juddboniface25-cyber
-
-Primary Brand:
-AI + Finance Builder
-
-Professional Identity:
-Recent Finance Graduate Building AI Applications
-
 MASTER PROMPT — CREATE MY PERSONAL AI BUILDER GITHUB README
 
 Act as a world-class GitHub Profile README designer specializing in personal brands for emerging AI engineers, product builders, and technical entrepreneurs.
@@ -24,23 +10,68 @@ I do NOT want a fake senior engineer profile.
 I do NOT want exaggerated claims.
 
 Create a README that accurately represents me as:
+
 - A recent finance graduate exploring AI and software development
 - A builder experimenting with AI-powered projects
 - Someone combining business knowledge with emerging technology
 - A self-directed learner creating useful systems and products
 
 The README should feel like:
-- AI startup founder aesthetic
+
+- AI startup builder aesthetic
 - Modern developer portfolio
-- Personal innovation lab
+- Personal innovation laboratory
 - Technical but approachable
 - Premium GitHub branding
+- Entrepreneurial and experimental
 
-The goal is personal branding, curiosity, and showcasing projects — not traditional corporate recruiting.
+The goal is personal branding, showcasing projects, and documenting my journey.
+
+Do not position me as:
+- Senior software engineer
+- FAANG engineer
+- AI expert
+- Open source maintainer
+
+Position me as:
+- A finance graduate building AI applications
+- An emerging AI/product builder
+- Someone learning through experimentation and creating projects
 
 ---
 
-## Design Theme
+# Personal Information
+
+Name:
+Judd Boniface
+
+GitHub Username:
+juddboniface25
+
+Email:
+juddboniface25@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/judd-boniface-413253263
+
+Education:
+James Madison University
+
+Degree:
+Bachelor of Business Administration (B.B.A.)
+
+Major:
+Finance
+
+Professional Identity:
+Recent Finance Graduate Building AI Applications
+
+Personal Brand:
+Using AI and finance to build unique projects.
+
+---
+
+# Design Theme
 
 Use:
 
@@ -49,9 +80,12 @@ Use:
 - Modern AI developer aesthetic
 - Minimal but premium
 - Enterprise-inspired but personal
-- No personal photos
-- No project screenshots
-- No placeholder images
+- AI startup style
+
+No:
+- Personal photos
+- Project screenshots
+- Placeholder images
 
 Only use:
 - SVG animations
@@ -78,11 +112,15 @@ Include:
 
 a. Capsule Render wave banner
 
-b. Typing SVG animation with phrases such as:
+b. Typing SVG animation with phrases:
 
 "Finance Graduate Building AI Applications"
+
 "Exploring AI x Automation x Product Development"
-"Building Systems, Not Just Learning Theory"
+
+"Building Systems Through Experimentation"
+
+"Combining Finance With Emerging Technology"
 
 c. Education badge:
 
@@ -110,17 +148,18 @@ Create a professional but authentic biography.
 Focus on:
 
 - Recent James Madison University Finance graduate
-- Exploring AI engineering and software development
-- Combining financial/business thinking with emerging technology
-- Building experimental projects using AI APIs and automation tools
-- Interested in creating useful products and systems
+- Exploring artificial intelligence and software development
+- Combining financial/business thinking with technology
+- Building experimental AI-powered projects
+- Learning through creating real systems
 
 Mention:
 
 - AI applications
 - Automation workflows
 - Product development mindset
-- Learning through building
+- Technology experimentation
+- Business problem solving
 
 Include:
 
@@ -128,31 +167,30 @@ Include:
 
 - AI experimentation
 - Collaboration
-- Building interesting projects
+- Interesting projects
 - Connecting with creators and developers
-
-Do NOT describe me as:
-- Senior engineer
-- Expert developer
-- FAANG engineer
+- Learning opportunities
 
 ---
 
 # 3. Tech Stack Section
 
-Organize into categories:
+Organize into categories.
 
 ## AI & Automation
 
 Include:
+
 - Claude API
-- AI Agents
+- AI Applications
 - Prompt Engineering
 - AI Workflow Automation
+- AI-Assisted Development
 
-## Development Tools
+## Development Environment
 
 Include:
+
 - VS Code
 - GitHub
 - Obsidian
@@ -160,11 +198,9 @@ Include:
 
 ## Programming
 
-Only include technologies that are realistic for an emerging developer.
+Only include realistic emerging developer skills.
 
 Do not invent expertise.
-
-Use Skill Icons.
 
 ---
 
@@ -178,19 +214,20 @@ Columns:
 
 Include:
 
-Examples:
-
 AI Applications:
 Building AI-powered workflows and experimental tools
 
 Automation:
 Creating systems that reduce repetitive tasks
 
+Knowledge Systems:
+Using Obsidian and AI tools for organization and productivity
+
 Product Development:
 Turning ideas into functional prototypes
 
-Knowledge Systems:
-Using Obsidian and AI tools to organize information
+Finance + Technology:
+Exploring how AI can transform business and financial workflows
 
 ---
 
@@ -222,37 +259,34 @@ Include a markdown table:
 
 Feature these projects:
 
-## Project 1
-
-Name:
-Claude OS
+## Claude OS
 
 Description:
 
 A personal operating system built around Obsidian and Claude Code to organize workflows, knowledge management, and AI-assisted productivity.
 
 Highlight:
-- Personal productivity systems
+
 - AI-assisted workflows
-- Knowledge management
-- Experimentation with AI tools
+- Personal knowledge management
+- Automation systems
+- Productivity experimentation
+- Building with emerging AI tools
 
 
-## Project 2
-
-Name:
-Apex Fitness Tracker
+## Apex Fitness Tracker
 
 Description:
 
 An AI-enhanced fitness tracking application currently in development.
 
 Highlight:
-- Product development
-- Data tracking
-- User experience
-- Future AI capabilities
 
+- Product development
+- User experience
+- Data tracking
+- Future AI capabilities
+- Building a complete application
 
 ---
 
@@ -261,6 +295,7 @@ Highlight:
 Include:
 
 ## Club Lacrosse Treasurer
+
 James Madison University
 
 Role:
@@ -305,7 +340,7 @@ Columns:
 
 | Recognition | Details |
 
-Include only real achievements.
+Only include real achievements.
 
 Do not fabricate awards.
 
@@ -315,7 +350,16 @@ Do not fabricate awards.
 
 Only include certifications that exist.
 
-If empty, create a "Currently Exploring" section instead.
+If none exist, replace with:
+
+"Currently Exploring"
+
+Include:
+- AI certifications
+- Developer certifications
+- Technology learning paths
+
+Do not invent completed certifications.
 
 ---
 
@@ -335,7 +379,10 @@ Include:
 - streak stats
 - top languages
 
-Use username dynamically.
+Use:
+
+GitHub Username:
+juddboniface25
 
 ---
 
@@ -372,103 +419,14 @@ learning:
 building:
   - Claude OS
   - Apex Fitness Tracker
+  - AI experiments
 
 exploring:
   - AI automation
   - Product development
-  - New technology
+  - Finance technology applications
 
 open_to:
   - Collaborations
   - Interesting projects
   - Learning opportunities
-
-# 16. Connect Section
-
-Create a professional connection section.
-
-Include:
-
-## Email
-
-Use:
-juddboniface25@gmail.com
-
-Create a Gmail badge/button.
-
----
-
-## LinkedIn
-
-Use:
-https://www.linkedin.com/in/judd-boniface-413253263
-
-Create a LinkedIn badge/button.
-
----
-
-## GitHub
-
-Use:
-https://github.com/juddboniface25
-
-Create a GitHub badge/button.
-
----
-
-## Portfolio
-
-Include a portfolio button placeholder if no portfolio exists yet.
-
-Design should encourage visitors to explore projects and experiments.
-
-Use premium badge styling.
-
----
-
-# 17. Footer Section
-
-Create a minimal professional footer.
-
-Include:
-
-A one-line personal brand statement.
-
-Theme:
-
-"Using AI and finance to build unique projects."
-
-Generate a refined version of this idea.
-
-Examples of style:
-
-"Building at the intersection of finance, artificial intelligence, and experimentation."
-
-"Exploring how AI can transform ideas into useful products."
-
-"Combining financial thinking with emerging technology to build unique solutions."
-
-Keep the quote concise and professional.
-
-Add a Capsule Render footer banner.
-
----
-
-# Personal Brand Statement
-
-Throughout the README, reinforce this identity:
-
-I am a recent finance graduate using AI technology to experiment, build, and explore new ideas.
-
-My focus is not traditional corporate progression.
-
-My focus is:
-- Learning through building
-- Creating unique AI-powered projects
-- Combining finance knowledge with technology
-- Experimenting with new tools and workflows
-- Developing products and systems
-
-The overall impression should be:
-
-"An entrepreneurial builder exploring the future of AI through a finance and business lens."
